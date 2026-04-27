@@ -2,7 +2,8 @@
 # 🎬 Mi Agenda de Películas
 
 ## Integrantes
-- Tu nombre aquí
+- Jairo Alejandro Pulido Corrales
+- Alessandro de Jesus Rivero Bracho
 
 ## Descripción
 Aplicación de consola desarrollada en Python que permite administrar
